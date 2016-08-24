@@ -292,6 +292,10 @@ a:focus {
   width: 940px;
 }
 
+.entry {
+ width: 800px;
+}
+
 .span12 {
   width: 940px;
 }
