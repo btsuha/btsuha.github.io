@@ -655,6 +655,8 @@ a:focus {
 
 p {
   margin: 0 0 10px;
+  color: #d1d1d1;
+  font-family: "Dosis";
 }
 
 .lead {
@@ -744,7 +746,7 @@ h4,
 h5,
 h6 {
   margin: 10px 0;
-  font-family: inherit;
+  font-family: "Dosis";
   font-weight: bold;
   line-height: 20px;
   color: #d1d1d1;
